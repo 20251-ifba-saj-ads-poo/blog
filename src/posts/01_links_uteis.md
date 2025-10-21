@@ -97,6 +97,14 @@ add gh
 scoop install main/gh
 ```
 
+### Resumo
+
+```console
+scoop bucket add java
+scoop bucket add extras
+scoop install main/git main/maven java/temurin-lts-jdk extras/scene-builder extras/github
+```
+
 
 ## Linux SDKman
 
